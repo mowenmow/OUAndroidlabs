@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="flagview" type="id" />
+    <item name="spin_switch" type="id" />
+</resources>
