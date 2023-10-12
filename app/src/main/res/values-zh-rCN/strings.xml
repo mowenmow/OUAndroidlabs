@@ -5,4 +5,5 @@
     <string name="button3">按钮3</string>
     <string name="switch1">开关</string>
     <string name="app_name">ou</string>
+    <string name="login">登录</string>
 </resources>

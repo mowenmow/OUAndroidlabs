@@ -4,4 +4,5 @@
     <string name="button3">Button 3</string>
     <string name="switch1">spin flag</string>
     <string name="app_name" >ou</string>
+    <string name="login">login</string>
 </resources>
